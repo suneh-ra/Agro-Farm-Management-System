@@ -1,0 +1,70 @@
+Name: 
+Username: accountant
+Phone Number: 
+Email Address: 
+Password: 123
+Role: Accountant
+
+Name: 
+Username: worker
+Phone Number: 
+Email Address: 
+Password: 123
+Role: Farm Worker
+
+Name: 
+Username: manager
+Phone Number: 
+Email Address: 
+Password: 123
+Role: Farm Manager
+
+Name: 
+Username: 
+Phone Number: 
+Email Address: 
+Password: 
+Role: Farm Worker
+
+Name: 
+Username: 
+Phone Number: 
+Email Address: 
+Password: 
+Role: Farm Worker
+
+Name: 
+Username: 
+Phone Number: 
+Email Address: 
+Password: 
+Role: Farm Worker
+
+Name: 
+Username: 
+Phone Number: 
+Email Address: 
+Password: 
+Role: Farm Worker
+
+Name: kamal
+Username: worker
+Phone Number: 012344
+Email Address: abc@gmail.com
+Password: 123
+Role: Farm Worker
+
+Name: kamal
+Username: worker
+Phone Number: 123344
+Email Address: kamal@gmail,.com
+Password: 123
+Role: Farm Worker
+
+Name: kamal
+Username: worker
+Phone Number: 12344
+Email Address: kamal@gmail.com
+Password: 123
+Role: Farm Worker
+

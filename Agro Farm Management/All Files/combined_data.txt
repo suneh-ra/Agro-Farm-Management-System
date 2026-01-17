@@ -1,0 +1,47 @@
+Animal ID: 123
+Breed: ert
+Sex: female
+Color: brown
+
+Animal ID: 123
+Breed: ert
+Sex: female
+Color: brown
+
+Animal ID: 126
+Breed: ert
+Sex: male
+Color: white
+
+Animal ID: 123
+Breed: ert
+Sex: female
+Color: brown
+
+Animal ID: 123
+Breed: ert
+Sex: female
+Color: brown
+
+Animal ID: 126
+Breed: ert
+Sex: male
+Color: white
+
+Animal ID: 12
+Breed: wq
+Sex: m
+Color: q
+
+xyz,017,7,38,70,qwertyujhb,good
+2024-02-29,23.0
+2024-03-13,12.0
+2024-02-28,45.0
+2024-04-10,10.0
+2024-03-06,10.0,22.0,220.0
+2024-02-06,12.0,45.0,540.0
+2024-04-06,23.0,56.0,1288.0
+2024-04-03,30.0,1.0,30.0
+2024-03-06,12.0,16.0,180.0
+2024-02-29,12.0,12.0,144.0
+2024-04-10,10.0,34.0,340.0

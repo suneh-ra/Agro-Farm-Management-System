@@ -1,0 +1,10 @@
+Animal ID: 123
+Breed: ert
+Sex: female
+Color: brown
+
+Animal ID: 451
+Breed: xyz
+Sex: male
+Color: black
+
