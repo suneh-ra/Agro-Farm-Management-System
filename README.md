@@ -1,3 +1,4 @@
 ## Project Screenshots
 
-All project screenshots are in this PDF: [Screenshots](files/Screenshots.pdf)
+All project screenshots are in this PDF: [Screenshots](docs/Screenshots.pdf)
+
